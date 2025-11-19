@@ -1,0 +1,2 @@
+1.0.0
+https://github.com/oalikorkmaz/esp32_data_rw_fw/releases/download/v1.0.1/eps32_data_rw-1.0.0.bin
