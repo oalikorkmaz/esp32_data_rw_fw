@@ -1,2 +1,2 @@
-1.0.0
+1.0.1
 https://raw.githubusercontent.com/oalikorkmaz/esp32_data_rw_fw/main/ota/eps32_data_rw.bin
