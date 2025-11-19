@@ -1,2 +1,2 @@
 1.0.1
-https://raw.githubusercontent.com/oalikorkmaz/esp32_data_rw_fw/main/ota/eps32_data_rw.bin
+https://github.com/oalikorkmaz/esp32_data_rw_fw/raw/refs/heads/main/ota/esp32-data-rw.bin
